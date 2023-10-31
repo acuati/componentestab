@@ -1,0 +1,11 @@
+.tab-list li{
+  display: inline-block;
+  border: solid 1px black;
+  border-radius: 12px 12px 0px 0px;
+  padding: 6px;
+
+
+}
+.tab-list li a{
+  text-decoration: none;
+}
