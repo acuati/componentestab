@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+
+}
   
 
 
@@ -11,9 +18,12 @@
   border: solid 1px black;
   border-radius: 12px 12px 0px 0px;
   padding: 6px;
+  margin-top: 10em;
+  margin-left: 5em;
 
 
 }
 .tab-list li a{
   text-decoration: none;
+  
 }

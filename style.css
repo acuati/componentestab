@@ -1,7 +1,15 @@
 .tab-content .tab-pane {
   
   display: none;
+  margin-top: 2em;
+  
 }
 .tab-content .tab-pane:first-child{
   display: block;
+  margin-top: 2em;
+ 
 }
+
+
+
+
